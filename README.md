@@ -8,7 +8,7 @@ This project is open to suggestions and requests of users. JEnhanced is made wit
 * very **easy** to **install**
 * lightweight (**< 100 kb**)
 * **zero** dependencies
-* **stable **because of completely unit test (JUnit 4) driven
+* **stable** because of completely unit test (JUnit 4) driven
 * feels like **native Java**
 
 Thanks for your trust in **JEnhanced**!
